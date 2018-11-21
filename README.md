@@ -1,7 +1,8 @@
 SystematicSwift
 
 以下ドキュメントの章立てを翻訳しながらまとめる
-https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+
+[https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
 # 章立て
  - 基本 / The Basics
