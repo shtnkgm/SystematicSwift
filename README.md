@@ -1,6 +1,6 @@
-SystematicSwift
+# Systematic Swift
 
-以下ドキュメントの章立てを翻訳しながらまとめる
+以下ドキュメントの章立てを翻訳しながらまとめてSwiftを体系的に俯瞰する
 
 [https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
