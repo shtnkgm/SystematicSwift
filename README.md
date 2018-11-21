@@ -31,6 +31,21 @@ https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
  - 応用的な演算子 / Advanced Operators
 
 # 基本 / The Basics
+ - 定数と変数 / Constants and Variables
+ - コメント / Comments
+ - セミコロン / Semicolons
+ - 整数型 / Integers
+ - 浮動小数点型 / Floating-Point Numbers
+ - 型安全と型推論 / Type Safety and Type Inference
+ - 数値リテラル / Numeric Literals
+ - 数値の型変換 / Numeric Type Conversion
+ - 型エイリアス / Type Aliases
+ - Bool型 / Booleans
+ - タプル型 / Tuples
+ - オプショナル型 / Optionals
+ - エラーハンドリング / Error Handling
+ - アサーションと前提条件/ Assertions and Preconditions
+
 # 基本的な演算子 / Basic Operators
 # 文字列と文字 / Strings and Characters
 # コレクション型 / Collection Types
