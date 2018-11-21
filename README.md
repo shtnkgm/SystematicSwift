@@ -61,6 +61,20 @@
  - 論理演算子 / Logical Operators
 
 # 文字列と文字 / Strings and Characters
+ - 文字列リテラル / String Literals
+ - 空文字での初期化 / Initializing an Empty String
+ - 文字列の変更可否 / String Mutability
+ - 文字列は値型 / Strings Are Value Types
+ - 文字を扱う / Working with Characters
+ - 文字列と文字の連結 /  Concatenating Strings and Characters
+ - 文字列の補間 / String Interpolation
+ - ユニコード / Unicode
+ - 文字数を数える / Counting Characters
+ - 文字列のアクセスと変更 / Accessing and Modifying a String
+ - 部分文字列 / Substrings
+ - 文字列の比較 / Comparing Strings
+ - 文字列のユニコード表現 / Unicode Representations of Strings
+
 # コレクション型 / Collection Types
 # 制御構文 / Control Flow
 # 関数 / Functions
