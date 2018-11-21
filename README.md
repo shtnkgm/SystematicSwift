@@ -1,5 +1,6 @@
 SystematicSwift
 
+以下ドキュメントの章立てを翻訳しながらまとめる
 https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
 # 章立て
@@ -44,9 +45,20 @@ https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
  - タプル型 / Tuples
  - オプショナル型 / Optionals
  - エラーハンドリング / Error Handling
- - アサーションと前提条件/ Assertions and Preconditions
+ - アサーションと前提条件 / Assertions and Preconditions
 
 # 基本的な演算子 / Basic Operators
+
+ - 用語 / Terminology
+ - 代入演算子 / Assignment Operator
+ - 算術演算子 / Arithmetic Operators
+ - 複合代入演算子 / Compound Assignment Operators
+ - 比較演算子 Comparison Operators
+ - 三項演算子 / 　Ternary Conditional Operator
+ - nil合体演算子 Nil-Coalescing Operator
+ - 範囲演算子 / Range Operators
+ - 論理演算子 / Logical Operators
+
 # 文字列と文字 / Strings and Characters
 # コレクション型 / Collection Types
 # 制御構文 / Control Flow
