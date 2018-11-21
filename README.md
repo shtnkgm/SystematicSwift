@@ -2,9 +2,6 @@
 
 以下ドキュメントの章立てを翻訳しながらまとめ、Swiftを体系的に俯瞰する
 
-Systematically overlooking Swift by summarizing the following chapters of the document while translating it into Japanese
-
-
 [https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
 # 章立て
