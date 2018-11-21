@@ -82,6 +82,13 @@
  - 辞書型 / Dictionaries
 
 # 制御構文 / Control Flow
+ - for-inループ / For-In Loops
+ - whileループ / While Loops
+ - 条件文 / Conditional Statements
+ - フロー制御文 / Control Transfer Statements
+ - 早期リターン / Early Exit
+ - APIの利用可否をチェックする / Checking API Availability
+
 # 関数 / Functions
 # クロージャ / Closures
 # 列挙型 / Enumerations
