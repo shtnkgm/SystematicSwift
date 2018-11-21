@@ -76,6 +76,11 @@
  - 文字列のユニコード表現 / Unicode Representations of Strings
 
 # コレクション型 / Collection Types
+ - コレクション型の変更可否 / Mutability of Collections
+ - 配列型 / Arrays
+ - 集合型 / Sets
+ - 辞書型 / Dictionaries
+
 # 制御構文 / Control Flow
 # 関数 / Functions
 # クロージャ / Closures
