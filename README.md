@@ -90,6 +90,12 @@
  - APIの利用可否をチェックする / Checking API Availability
 
 # 関数 / Functions
+ - 関数の定義と呼び出し / Defining and Calling Functions
+ - 関数の引数と戻り値 / Function Parameters and Return Values
+ - 関数の外部引数と内部引数 / Function Argument Labels and Parameter Names
+ - 関数型 / Function Types
+ - 関数のネスト / Nested Functions
+
 # クロージャ / Closures
 # 列挙型 / Enumerations
 # 構造体とクラス / Structures and Classes
