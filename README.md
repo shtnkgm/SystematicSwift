@@ -31,52 +31,52 @@
  - 応用的な演算子 / Advanced Operators
 
 ## [基本 / The Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
- -  定数と変数 / Constants and Variables
+ - 定数と変数 / Constants and Variables
    - 定数と変数の定義 / Declaring Constants and Variables
    - 型アノテーション / Type Annotations
    - 定数と変数の命名 / Naming Constants and Variables
    - 定数と変数の出力 / Printing Constants and Variables
- -  コメント / Comments
- -  セミコロン / Semicolons
- -  整数型 / Integers
+ - コメント / Comments
+ - セミコロン / Semicolons
+ - 整数型 / Integers
    - 整数型の上限と下限 / Integer Bounds
    - Int型 / Int
    - UInt型 / UInt
- -  浮動小数点型 / Floating-Point Numbers
- -  型安全と型推論 / Type Safety and Type Inference
- -  数値リテラル / Numeric Literals
- -  数値の型変換 / Numeric Type Conversion
+ - 浮動小数点型 / Floating-Point Numbers
+ - 型安全と型推論 / Type Safety and Type Inference
+ - 数値リテラル / Numeric Literals
+ - 数値の型変換 / Numeric Type Conversion
    - 整数型の変換 / Integer Conversion
    - 整数型と浮動小数点型の変換 / Integer and Floating-Point Conversion
- -  型エイリアス / Type Aliases
- -  Bool型 / Booleans
- -  タプル型 / Tuples
- -  オプショナル型 / Optionals
+ - 型エイリアス / Type Aliases
+ - Bool型 / Booleans
+ - タプル型 / Tuples
+ - オプショナル型 / Optionals
    - nil / nil
    - if文と強制アンラップ / If Statements and Forced Unwrapping
    - オプショナルバインディング / Optional Binding
    - 暗黙的アンラップ型 / Implicitly Unwrapped Optionals
- -  エラーハンドリング / Error Handling
- -  アサーションと前提条件 / Assertions and Preconditions
+ - エラーハンドリング / Error Handling
+ - アサーションと前提条件 / Assertions and Preconditions
    - アサーションによるデバッグ / Debugging with Assertions
    - 前提条件の強調 / Enforcing Preconditions
 
 ## [基本的な演算子 / Basic Operators](https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html)
- -  用語 / Terminology
- -  代入演算子 / Assignment Operator
- -  算術演算子 / Arithmetic Operators
+ - 用語 / Terminology
+ - 代入演算子 / Assignment Operator
+ - 算術演算子 / Arithmetic Operators
    - 剰余演算子 / Remainder Operator
    - 単項マイナス演算子 / Unary Minus Operator
    - 単項プラス演算子 / Unary Plus Operator
- -  複合代入演算子 / Compound Assignment Operators
- -  比較演算子 / Comparison Operators
- -  三項演算子 / Ternary Conditional Operator
- -  nil合体演算子 / Nil-Coalescing Operator
- -  範囲演算子 / Range Operators
+ - 複合代入演算子 / Compound Assignment Operators
+ - 比較演算子 / Comparison Operators
+ - 三項演算子 / Ternary Conditional Operator
+ - nil合体演算子 / Nil-Coalescing Operator
+ - 範囲演算子 / Range Operators
    - 閉区間演算子 / Closed Range Operator
    - 半開区間演算子 / Half-Open Range Operator
    - 片側区間演算子 / One-Sided Ranges
- -  論理演算子 / Logical Operators
+ - 論理演算子 / Logical Operators
    - 論理NOT演算子 / Logical NOT Operator
    - 論理AND演算子 / Logical AND Operator
    - 論理OR演算子 / Logical OR Operator
@@ -84,34 +84,34 @@
    - 明示的な括弧 / Explicit Parentheses
 
 ## [Strings and Characters](https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html)
- -  文字列リテラル / String Literals
+ - 文字列リテラル / String Literals
    - 複数行の文字列リテラル / Multiline String Literals
    - 文字列リテラル内の特殊文字 / Special Characters in String Literals
- -  空文字での初期化 / Initializing an Empty String
- -  文字列の変更可否 / String Mutability
- -  文字列は値型 / Strings Are Value Types
- -  文字を扱う / Working with Characters
- -  文字列と文字の連結 / Concatenating Strings and Characters
- -  文字列の補間 / String Interpolation
- -  ユニコード / Unicode
+ - 空文字での初期化 / Initializing an Empty String
+ - 文字列の変更可否 / String Mutability
+ - 文字列は値型 / Strings Are Value Types
+ - 文字を扱う / Working with Characters
+ - 文字列と文字の連結 / Concatenating Strings and Characters
+ - 文字列の補間 / String Interpolation
+ - ユニコード / Unicode
    - Unicodeスカラ値 / Unicode Scalar Values
    - 拡張書記素クラスタ / Extended Grapheme Clusters
- -  文字数を数える / Counting Characters
- -  文字列のアクセスと変更 / Accessing and Modifying a String
+ - 文字数を数える / Counting Characters
+ - 文字列のアクセスと変更 / Accessing and Modifying a String
    - 文字列のインデックス / String Indices
    - 挿入と削除 / Inserting and Removing
- -  部分文字列 / Substrings
- -  文字列の比較 / Comparing Strings
+ - 部分文字列 / Substrings
+ - 文字列の比較 / Comparing Strings
    - 文字列と文字の同一性 / String and Character Equality
    - 接頭辞と接尾辞の同一性 / Prefix and Suffix Equality
- -  文字列のユニコード表現 / Unicode Representations of Strings
+ - 文字列のユニコード表現 / Unicode Representations of Strings
    - UTF-8表現 / UTF-8 Representation
    - UTF-16表現 / UTF-16 Representation
    - ユニコードのスカラ表現 / Unicode Scalar Representation
 
 ## [コレクション型 / Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
- -  コレクション型の変更可否 / Mutability of Collections
- -  配列型 / Arrays
+ - コレクション型の変更可否 / Mutability of Collections
+ - 配列型 / Arrays
    - 配列型の糖衣構文 / Array Type Shorthand Syntax
    - 空配列の生成 / Creating an Empty Array
    - デフォルト値を持つ配列の生成 / Creating an Array with a Default Value
@@ -119,7 +119,7 @@
    - 配列リテラルによる配列の生成 / Creating an Array with an Array Literal
    - 配列へのアクセスと変更 / Accessing and Modifying an Array
    - 配列のイテレート / Iterating Over an Array
- -  集合型 / Sets
+ - 集合型 / Sets
    - 集合型のハッシュ値 / Hash Values for Set Types
    - 集合型の構文 / Set Type Syntax
    - 空集合の生成と初期化 / Creating and Initializing an Empty Set
@@ -129,7 +129,7 @@
  - 集合演算の実行 / Performing Set Operations
    - 基本的な集合の演算 / Fundamental Set Operations
    - 集合の要素と同一性 / Set Membership and Equality
- -  辞書型 / Dictionaries
+ - 辞書型 / Dictionaries
    - 辞書型の糖衣構文 / Dictionary Type Shorthand Syntax
    - 空辞書の生成 / Creating an Empty Dictionary
    - 辞書リテラルによる辞書の生成 / Creating a Dictionary with a Dictionary Literal
@@ -137,11 +137,11 @@
    - 辞書のイテレート / Iterating Over a Dictionary
 
 ## [制御構文 / Control Flow](https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html)
- -  for-inループ / For-In Loops
- -  whileループ / While Loops
+ - for-inループ / For-In Loops
+ - whileループ / While Loops
    - while文 / While
    - repeat-while文 / Repeat-While
- -  条件文 / Conditional Statements
+ - 条件文 / Conditional Statements
    - if文 / If
    - switch文 / Switch
      - 暗黙的なfallthroughはない /  No Implicit Fallthrough
@@ -150,7 +150,7 @@
      - バリューバインディングパターン / Value Bindings
      - where / Where
      - ケースの合成 / Compound Cases
- -  フロー制御文 / Control Transfer Statements
+ - フロー制御文 / Control Transfer Statements
    - continue / Continue
    - break / Break
      - ループ文でのbreak / Break in a Loop Statement
@@ -181,7 +181,7 @@
  - 関数のネスト / Nested Functions
 
 ## [クロージャ / Closures](https://docs.swift.org/swift-book/LanguageGuide/Closures.html)
- -  クロージャ式 / Closure Expressions
+ - クロージャ式 / Closure Expressions
    - ソート関数 / The Sorted Method
    - クロージャ式の構文 / Closure Expression Syntax
    - コンテキストからの型推論 / Inferring Type From Context
@@ -195,14 +195,14 @@
  - autoclosure属性 / Autoclosures
 
 ## [列挙型 / Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
- -  列挙型の構文 / Enumeration Syntax
- -  switch文による列挙型の値のパターンマッチ / Matching Enumeration Values with a Switch Statement
- -  列挙型のイテレート / Iterating over Enumeration Cases
- -  連想値 / Associated Values
- -  ローバリュー / Raw Values
+ - 列挙型の構文 / Enumeration Syntax
+ - switch文による列挙型の値のパターンマッチ / Matching Enumeration Values with a Switch Statement
+ - 列挙型のイテレート / Iterating over Enumeration Cases
+ - 連想値 / Associated Values
+ - ローバリュー / Raw Values
    - 暗黙的に代入されるローバリュー / Implicitly Assigned Raw Values
    - ローバリューからの初期化 / Initializing from a Raw Value
- -  再帰的な列挙型 / Recursive Enumerations
+ - 再帰的な列挙型 / Recursive Enumerations
 
 ## [構造体とクラス / Structures and Classes](https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html)
  - 構造体とクラスの比較 / Comparing Structures and Classes
@@ -210,8 +210,8 @@
    - 構造体とクラスのインスタンス / Structure and Class Instances
    - プロパティへの操作 / Accessing Properties
    - 構造体のメンバーワイズイニシャライザ / Memberwise Initializers for Structure Types
- -  構造体と列挙型は値型 / Structures and Enumerations Are Value Types
- -  クラスは参照型 / Classes Are Reference Types
+ - 構造体と列挙型は値型 / Structures and Enumerations Are Value Types
+ - クラスは参照型 / Classes Are Reference Types
    - アイデンティティ演算子 / Identity Operators
    - ポインタ / Pointers
 
@@ -253,7 +253,7 @@
  - オーバーライドの防止 / Preventing Overrides
 
 ## [初期化 / Initialization](https://docs.swift.org/swift-book/LanguageGuide/Initialization.html)
- -  ストアドプロパティの初期値の設定 / Setting Initial Values for Stored Properties
+ - ストアドプロパティの初期値の設定 / Setting Initial Values for Stored Properties
    - イニシャライザ / Initializers
    - プロパティのデフォルト値 / Default Property Values
  - イニシャライザのカスタマイズ / Customizing Initialization
@@ -426,7 +426,7 @@
      - 符号あり整数型のシフト演算の動作 / Shifting Behavior for Signed Integers
  - オーバーフロー演算子 / Overflow Operators
    - 値のオーバーフロー / Value Overflow
- -  優先順位と結合性 / Precedence and Associativity
+ - 優先順位と結合性 / Precedence and Associativity
  - 演算子メソッド / Operator Methods
    - 前置演算子と後置演算子 / Prefix and Postfix Operators
    - 複合代入演算子 / Compound Assignment Operators
