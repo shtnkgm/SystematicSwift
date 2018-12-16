@@ -1,6 +1,6 @@
 # Systematic Swift
 
-[https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+体系的にSwiftを習得することを目的とした、[Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)の全見出しの日本語訳です。
 
 ## 章立て
  - 基本 / The Basics
