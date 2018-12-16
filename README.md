@@ -18,9 +18,9 @@
  - メソッド / Methods
  - 添字 / Subscripts
  - 継承 / Inheritance
- - イニシャライザ / Initialization
- - デイニシャライザ / Deinitialization
- - オプショナルチェイン / Optional Chaining
+ - 初期化 / Initialization
+ - 終了処理 / Deinitialization
+ - オプショナルチェイニング / Optional Chaining
  - エラー処理 / Error Handling
  - 型キャスト / Type Casting
  - ネストした型 / Nested Types
